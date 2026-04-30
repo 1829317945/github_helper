@@ -1,4 +1,4 @@
-# docker_setup.sh
+# 一个命令运行github项目
 
 这个脚本解决的核心需求是：
 
